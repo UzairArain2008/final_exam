@@ -1,7 +1,4 @@
-# TASK E: MODEL DEPLOYMENT USING STREAMLIT (5 Marks)
-# Filename: app.py
-# Run with: streamlit run app.py
-
+# Created By Muhammad Uzair
 import streamlit as st
 import pandas as pd
 import numpy as np
